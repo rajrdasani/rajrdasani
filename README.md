@@ -13,6 +13,8 @@ My favorite projects:
 
 
 Some fun visualizations:
+![MaddenRatings](https://github.com/rajrdasani/rajrdasani/blob/main/QB_AdvancedVS_Madden_Rating.png)
+![ScreenPasses](https://github.com/rajrdasani/rajrdasani/blob/main/screenpasses_team.png)
 
 
 
