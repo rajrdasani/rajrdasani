@@ -15,8 +15,8 @@ My favorite projects:
 Some fun visualizations:
 
 <p float="left">
-  <img src="https://github.com/rajrdasani/rajrdasani/blob/main/QB_AdvancedVS_Madden_Rating.png" width="500" height="350">
-  <img src="https://github.com/rajrdasani/rajrdasani/blob/main/screenpasses_team.png" width="350" height="350">
+  <img src="https://github.com/rajrdasani/rajrdasani/blob/main/QB_AdvancedVS_Madden_Rating.png">
+  <img src="https://github.com/rajrdasani/rajrdasani/blob/main/screenpasses_team.png">
 </p>
 
 <!--
