@@ -13,10 +13,11 @@ My favorite projects:
 
 
 Some fun visualizations:
-![MaddenRatings](https://github.com/rajrdasani/rajrdasani/blob/main/QB_AdvancedVS_Madden_Rating.png)
-![ScreenPasses](https://github.com/rajrdasani/rajrdasani/blob/main/screenpasses_team.png)
 
-
+<p float="left">
+  <img src="https://github.com/rajrdasani/rajrdasani/blob/main/QB_AdvancedVS_Madden_Rating.png" width="550" height="400">
+  <img src="https://github.com/rajrdasani/rajrdasani/blob/main/screenpasses_team.png" width="400" height="400">
+</p>
 
 <!--
 **rajrdasani/rajrdasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
