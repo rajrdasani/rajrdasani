@@ -16,7 +16,6 @@ Some fun visualizations:
 
 <p float="left">
   <img src="https://github.com/rajrdasani/rajrdasani/blob/main/QB_AdvancedVS_Madden_Rating.png">
-  <img src="https://github.com/rajrdasani/rajrdasani/blob/main/screenpasses_team.png">
 </p>
 
 <!--
